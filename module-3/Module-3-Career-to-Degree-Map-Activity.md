@@ -8,9 +8,9 @@ This activity bridges your career interests and your academic options. You will 
 
 Based on your Ikigai reflection and your POV Statement, identify two specific career roles — not just broad fields, but actual job titles or professional roles. For example, not "healthcare" but "health policy analyst" or "clinical social worker."
 
-**Career Path 1:** [Job Title]
+**Career Path 1:** [Airline Flight Operations Data Analyst]
 
-**Career Path 2:** [Job Title]
+**Career Path 2:** [Aviation Systems & Network Architect]
 
 ---
 
@@ -21,76 +21,76 @@ For each career, use O*NET, the BLS Occupational Outlook Handbook, LinkedIn, and
 ### Career 1
 
 **Career Title:**
-[Your response here]
+[Airline Flight Operations Data Analyst]
 
 **Brief Description** *(what does this person do day to day?):*
-[Your response here]
+[Analyzes complex data streams—including flight tracking, fuel efficiency, aircraft telemetry, delay patterns, and passenger traffic—to optimize airline schedules, reduce operational costs, and improve on-time performance.]
 
 **Typical Education Required:**
-[Your response here]
+[Bachelor’s degree in Information Science, Data Science, or Aviation Management.]
 
 **Key Skills Required** *(list at least 6):*
-1. *skills-required-1*
-2. *skills-required-2*
-3. *skills-required-3*
-4. *skills-required-4*
-5. *skills-required-5*
-6. *skills-required-6*
+1.Data Visualization (Tableau, Power BI)
+2.SQL & Relational Database Management
+3.Python or R for Predictive Analytics
+4.Statistical Analysis
+5.Systems Thinking & Operations Research
+6.Data Storytelling & Stakeholder Reporting
 
 **Key Knowledge Areas Required:**
-[Your response here]
+[Flight dispatch protocols, airline metrics (ASM, RASM, CASM), database architecture, data governance, and aviation telemetry standards.]
 
 **Median Annual Salary:**
-[Your response here]
+[$86,000 – $108,000 (standard range for specialized industry Data/Operations Analysts).]
 
 **Job Growth Outlook** *(growing, stable, declining?):*
-[Your response here]
+[Growing rapidly (~23% demand growth across data analyst fields through the decade, heavily adopted by major carriers optimizing fuel and routes).]
 
 **Typical Career Path** *(how do people enter and advance in this field?):*
-[Your response here]
+[B.S. in Information Science → Junior Operations Analyst / Crew Systems Analyst → Senior Aviation Data Analyst → Director of Flight Operations Analytics.]
 
 **3 specific courses or experiences that would build skills for this career:**
-1. *courses-or-experiences-1*
-2. *courses-or-experiences-2*
-3. *courses-or-experiences-3*
 
+1.Database Systems & Data Modeling: Learning enterprise SQL to query flight status, passenger leg data, and baggage logs.
+2.Data Visualization & Analytics: Mastering dashboard tools like Tableau to present real-time delay metrics to flight ops managers.
+3.Airline Corporate Internship: A summer internship in network planning or flight operations at a major airline (e.g., Delta, United, Southwest).
 ---
 
 ### Career 2
 
 **Career Title:**
-[Your response here]
+[Professional Track and Field Athlete (Sprinter)]
 
 **Brief Description** *(what does this person do day to day?):*
-[Your response here]
+[Trains full-time under professional coaches (track workouts, weight training, recovery, video analysis), competes in international and domestic track meets (Diamond League, National Championships, Olympic Trials), manages brand sponsorships, and maintains peak physical conditioning.]
 
 **Typical Education Required:**
-[Your response here]
+[High School Diploma minimum; a Bachelor’s Degree]
 
 **Key Skills Required** *(list at least 6):*
-1. *skills-required-1*
-2. *skills-required-2*
-3. *skills-required-3*
-4. *skills-required-4*
-5. *skills-required-5*
-6. *skills-required-6*
+1.High-Speed Biomechanical Execution
+2.Explosive Power & Acceleration
+3.Discipline & Strict Training Routine Adherence
+4.Mental Toughness & Race Focus
+5.Media & Personal Brand Management
+6.Recovery & Injury Prevention Protocols
 
 **Key Knowledge Areas Required:**
-[Your response here]
+[Exercise science, biomechanics, anti-doping regulations (USADA/WADA), sports nutrition, and professional contract/sponsorship structures.]
 
 **Median Annual Salary:**
-[Your response here]
+[: ~$83,300 (compensation varies widely based on performance; elite athletes earn $100k–$500k+ via base shoe contracts and prize money, while emerging pros often earn $30k–$60k in base endorsements plus performance bonuses).]
 
 **Job Growth Outlook** *(growing, stable, declining?):*
-[Your response here]
+[Highly Competitive / Limited Openings (pro spots depend entirely on meeting elite performance standards and international qualifying marks).]
 
 **Typical Career Path** *(how do people enter and advance in this field?):*
-[Your response here]
+[Elite High School Runner → NCAA Division I Collegiate Athlete (and/or World Junior/National level) → Qualify for World/Olympic Trials or hit world-leading marks → Sign with a Sports Agency & Shoe Sponsor (e.g., Nike, Adidas, Puma) → Compete globally.]
 
 **3 specific courses or experiences that would build skills for this career:**
-1. *courses-or-experiences-1*
-2. *courses-or-experiences-2*
-3. *courses-or-experiences-3*
+1.NCAA Division I College Track & Field Competition: Competing at the highest collegiate level to build national exposure and hit professional qualifying standards.  
+2.Kinesiology / Sports Biomechanics Coursework: Understanding movement efficiency, sprint mechanics, and force production.
+3.Personal Branding & Sports Marketing Coursework: Learning how to market athletic performance to land shoe sponsorships and brand deals.
 
 ---
 
@@ -100,41 +100,41 @@ For each career, create a simple map that connects the career's requirements to 
 
 ### Career-to-Degree Map: Career 1
 
-**Career:** [Title]
+**Career:** [Airline Information Systems/Database Specialist]
 
-**Degree Path that best supports this career:** [Major + potential minor or concentration]
+**Degree Path that best supports this career:** [B.S. in Information Science + Concentration/Minor in Cybersecurity or Database Administration]
 
 **Specific courses from your research that align with this career:**
-- [Course 1] → [Skill it develops]
-- [Course 2] → [Skill it develops]
-- [Course 3] → [Skill it develops]
 
+1.Database Management Systems (SQL) → Develops the ability to structure and maintain real-time flight and passenger databases.
+2.Information Security & Assurance → Develops skills to protect airline operational networks from cyber threats.
+3.System Analysis & Design → Teaches how to optimize enterprise-level software workflows for flight operations.
 **Elective areas worth exploring for this career:**
-- [Area 1]
-- [Area 2]
+Cloud Computing (AWS / Microsoft Azure)
+Data Analytics / Business Intelligence
 
 **Experiences beyond the classroom that would strengthen this path:**
-- [Internship, research, volunteer work, club, etc.]
+- [Securing a summer IT internship with a commercial airline (e.g., Delta, United, American), earning an industry credential]
 
 ---
 
 ### Career-to-Degree Map: Career 2
 
-**Career:** [Title]
+**Career:** [Professional Track and Field Athlete (Sprinter)]
 
-**Degree Path that best supports this career:** [Major + potential minor or concentration]
+**Degree Path that best supports this career:** [B.S. in Information Science (providing a high-value degree while competing on a collegiate track team)]
 
 **Specific courses from your research that align with this career:**
-- [Course 1] → [Skill it develops]
-- [Course 2] → [Skill it develops]
-- [Course 3] → [Skill it develops]
+1.Human-Computer Interaction (HCI) → Teaches interface design principles applicable to athletic wearable tech and performance-tracking software.
+2.Data Visualization & Analytics → Develops the skill to analyze personal biometric, timing, and training data to optimize workout performance.
+3. Digital Media & Content Strategy → Builds branding and audience engagement skills needed to maximize endorsement deals with athletic sponsors.
 
 **Elective areas worth exploring for this career:**
-- [Area 1]
-- [Area 2]
+1.Sports Management / Sports Marketing
+2.Exercise Physiology / Sports Nutrition
 
 **Experiences beyond the classroom that would strengthen this path:**
-- [Internship, research, volunteer work, club, etc.]
+- [Working with high-performance strength and conditioning coaches, and utilizing sports data analytics tools to track sprint mechanics and split times.]
 
 ---
 
@@ -142,10 +142,7 @@ For each career, create a simple map that connects the career's requirements to 
 
 Write a short reflection (6–10 sentences):
 
-- Which career path feels more aligned with your POV Statement and why?
-- What surprised you in your research?
-- Did this activity change or refine which major seems like the best fit?
-- What is one question this activity raised that you want to explore further?
+My main goal is to become a professional track and field athlete because I love sprinting at the top level. But when I looked into the business side of track and field, I found out how important it is to have a valuable skill like Information Science. Athletic contracts are based a lot on how well you perform and how long you can compete, so this skill is very important. I was surprised to learn how much data and technology are used in professional sports. Athletes use data analytics, biometric software, and video analysis every day to improve their times by tiny amounts. This research changed my view, showing that an Information Science degree is not just a backup for working at an airline.
 
 **My Reflection:**
 [Your response here]
