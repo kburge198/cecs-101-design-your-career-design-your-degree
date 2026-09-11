@@ -29,12 +29,12 @@ When you finish, record the following:
 
 | Type | Score | Strength Level |
 |---|---|---|
-| Realistic (R) | | |
-| Investigative (I) | | |
-| Artistic (A) | | |
-| Social (S) | | |
-| Enterprising (E) | | |
-| Conventional (C) | | |
+| Realistic (R) |3 | Moderate |
+| Investigative (I) | 0| Low|
+| Artistic (A) |0 |Low |
+| Social (S) |1 |Low |
+| Enterprising (E) |8 |High |
+| Conventional (C) |4 |Medium |
 
 ---
 
@@ -44,51 +44,51 @@ For each of your top three RIASEC types, respond to the following prompts:
 
 ### My Top Three Types — Detailed Interpretation
 
-#### Type 1: [Letter] — [Type Name]
+#### Type 1: [E] — [Enterprisign]
 
 **What this type typically values:**
-[Your response — based on the description above and your assessment results]
+[People who are Enterprising value leading others, taking action, making decisions, and setting big goals. They like taking on projects, persuading people, and being in situations where they can step up as a leader.]
 
 **How this shows up in my life:**
 *(Think about your hobbies, favorite school subjects, activities you lose track of time doing, volunteer work, or part-time jobs.)*
-[Your response here]
+[This shows up through my sports background and being a student-athlete. I like competing, taking initiative, and working with a team toward a big goal. I also get excited about starting projects, like making video content, and figuring out how to build a audience or make an impact.]
 
 **Careers associated with this type that interest me:**
 *(List at least 3 from the O*NET results or your own research.)*
-1. *career-1*
-2. *career-2*
-3. *career-3*
+Advertising Sales Agents
+Administrative Services Managers
+Appraisers & Assessors of Real Estate
 
 
 ---
 
-#### Type 2: [Letter] — [Type Name]
+#### Type 2: [C] — [Conventional]
 
 **What this type typically values:**
-[Your response here]
+[Conventional types value structure, organization, clear rules, and details. They like keeping things orderly, following set processes, and making sure information or data is accurate.]
 
 **How this shows up in my life:**
-[Your response here]
+[It shows up In my INSC Class. I like having set security standards to follow (like PCI DSS compliance) and making sure passwords, login steps, and user access settings are configured the right way. I like knowing there is a clear, right way to organize systems so nothing breaks.]
 
 **Careers associated with this type that interest me:**
-1. *career-1*
-2. *career-2*
-3. *career-3*
+1.Air Traffic Controllers
+2.Aircraft Cargo Handling Supervisors
+3.Administrative Services Managers
 
 ---
 
-#### Type 3: [Letter] — [Type Name]
+#### Type 3: [R] — [Realistic]
 
 **What this type typically values:**
-[Your response here]
+[Realistic types value hands-on work, practical problem-solving, and working with tools, technology, or physical systems rather than just talking about abstract theories.]
 
 **How this shows up in my life:**
-[Your response here]
+[Even though my score here is lower than E and C, it still pops up because I like doing actual practical tasks. Whether that's working hands-on with video editing software, setting up network settings on a computer, or training physically for track, I prefer doing real, tangible things over sitting around reading boring textbooks all day.]
 
 **Careers associated with this type that interest me:**
-1. *career-1*
-2. *career-2*
-3. *career-3*
+Air Traffic Controllers
+Aircraft Cargo Handling Supervisors
+Appraisers & Assessors of Real Estate
 
 ---
 
@@ -102,12 +102,12 @@ Then respond to the following to connect RIASEC to your self-assessment.
 
 **Where my Holland Code and Module 2 findings align:**
 *(What overlaps between your RIASEC profile and what you discovered about yourself — values, strengths, interests?)*
-[Your response here]
+[My top scores make sense with what I know about myself. Enterprising fits my athlete side because I like to lead and win. Conventional fits my Information Sciences major because managing data is all about staying organized and following clear rules.]
 
 **Where there are surprises or tensions:**
 *(Did your Holland Code reveal anything unexpected? Does it conflict with anything you thought you knew about yourself?)*
-[Your response here]
+[It was a little surprising that Investigative was a 0. But it makes sense because I do not want to sit around reading super long research papers all day. I just want to organize information and work with people.]
 
 **What this tells me about my career direction:**
 *(What is the most important insight from combining your RIASEC results with your SWOT?)*
-[Your response here]
+[It shows me I am good at combining leadership with staying organized. Information Sciences fits me well because I can manage tech projects, organize media, and help teams stay on track.
